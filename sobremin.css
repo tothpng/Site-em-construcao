@@ -1,0 +1,82 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+.header1 {
+    width: 980px;
+    margin: 0 auto;
+    padding: 15px;
+}
+.logo {
+    float: left;
+    padding: 25px;
+    width: 2%;
+}
+.header2 {
+    width: 980px;
+    margin: 0 auto;
+    padding: 15px;
+}
+.menu {
+    width: 54%;
+    float: left;
+    padding: 2%;
+}
+.menu ul li {
+    display: inline-block;
+    margin-left: 10px;
+}
+.menu ul li a {
+    color: #a05c08;
+    text-decoration: none;
+    font-size: 32px;
+}
+.menu ul li a:hover {
+    color: #ffffff;
+    border-bottom: 3px solid #ffffff;
+}
+.header3 {
+    width: 62%;
+    margin: 0px auto;
+    padding: 12px;
+}
+.social {
+    margin-top: -5%;
+    font-size: 20px;
+    float: right;
+}
+.social ul li {
+    margin-left: 20px;
+    display: inline-block;
+    margin-right: -5px;
+}
+.header4 {
+    width: 21%;
+    margin: -40px auto;
+    padding: 15px;
+    float: left;
+}
+.busca input {
+    float: right;
+    background-image: url('../img/lupa.png');
+    background-repeat: no-repeat;
+    background-position: 95%;
+    border-color: #000000;
+    height: 35px;
+    padding: 5px;
+    width: 180px;
+    margin-top: 10px;
+}
+.fundo1 {
+    background-color: #252323;
+    height: 17%;
+    border-bottom: 5px solid #000000;
+}
+.header5 {
+    width: 50%;
+    margin: 0 auto;
+}
+.fundo2 {
+    border-bottom: 5px solid #000000;
+}
